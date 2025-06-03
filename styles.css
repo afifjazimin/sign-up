@@ -33,16 +33,21 @@ body
 /*---------------------------For Small Screens---------------------------*/
 
 @media only screen and (max-width: 768px){
+
     .box-area{
         margin: 0 10px;
     }
 
-    .left-box{
+    .bg-image-custom{
         height: 100px;
-        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0px 20px 0px 20px;
     }
 
-    .right-box{
-        padding: 20px;
-    }
+    .logo-container {
+    justify-content: center !important;
+    margin-top: 50px;
+  }
 }
