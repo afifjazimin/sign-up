@@ -20,7 +20,7 @@ body
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 600px; /* atau ikut saiz yang kau nak */
+  height: 500px; /* atau ikut saiz yang kau nak */
   width: 400px; /* kalau nak fix width */
 }
 
